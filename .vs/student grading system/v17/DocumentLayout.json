@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUNG\\source\\repos\\student grading system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|c:\\users\\tung\\source\\repos\\student grading system\\student grading system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5419DE45-ADD0-4070-AF27-371CA351B9ED}|student grading system\\student grading system.csproj|solutionrelative:student grading system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form2.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form2.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form2.cs",
+              "RelativeToolTip": "student grading system\\Form2.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:07:17.477Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form1.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form1.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form1.cs",
+              "RelativeToolTip": "student grading system\\Form1.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswGAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:40:58.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form3.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form3.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form3.cs",
+              "RelativeToolTip": "student grading system\\Form3.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwBsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:49:22.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form4.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form4.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form4.cs",
+              "RelativeToolTip": "student grading system\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:20:28.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form4.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form4.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form4.cs [Design]",
+              "RelativeToolTip": "student grading system\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:20:11.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form3.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form3.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form3.cs [Design]",
+              "RelativeToolTip": "student grading system\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:45:34.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form2.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form2.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form2.cs [Design]",
+              "RelativeToolTip": "student grading system\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:44:28.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form1.cs",
+              "RelativeDocumentMoniker": "student grading system\\Form1.cs",
+              "ToolTip": "C:\\Users\\TUNG\\source\\repos\\student grading system\\student grading system\\Form1.cs [Design]",
+              "RelativeToolTip": "student grading system\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:19:45.098Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

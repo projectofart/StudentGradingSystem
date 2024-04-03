@@ -1,0 +1,13 @@
+C:\Users\TUNG\source\repos\student grading system\student grading system\bin\Debug\student grading system.exe.config
+C:\Users\TUNG\source\repos\student grading system\student grading system\bin\Debug\student grading system.exe
+C:\Users\TUNG\source\repos\student grading system\student grading system\bin\Debug\student grading system.pdb
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student grading system.csproj.AssemblyReference.cache
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student_grading_system.Form1.resources
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student_grading_system.Properties.Resources.resources
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student grading system.csproj.GenerateResource.cache
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student grading system.csproj.CoreCompileInputs.cache
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student grading system.exe
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student grading system.pdb
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student_grading_system.Form2.resources
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student_grading_system.Form3.resources
+C:\Users\TUNG\source\repos\student grading system\student grading system\obj\Debug\student_grading_system.Form4.resources
